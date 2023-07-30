@@ -1,0 +1,4 @@
+Flask==2.3.2
+gpt_index==0.7.11.post1
+langchain==0.0.247
+llama_index==0.7.11.post1
